@@ -14,3 +14,7 @@ ScottPlot cookbook in `F#`notebooks. Examples created using `.NET SDK`, `VS Code
 - [ ] Plot Types
 - [x] Statistics
 - [ ] Miscellaneous
+
+## Notes
+
+- `sig` is reserved keyword in `F#`
