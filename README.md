@@ -8,7 +8,7 @@ ScottPlot cookbook in `F#`notebooks. Examples created using `.NET SDK`, `VS Code
 - Scottplot cookbook: https://scottplot.net/cookbook/5.0/
 ## Progress
 
-- [ ] Introduction
+- [x] Introduction
 - [ ] Axis
 - [x] Layout
 - [ ] Plot Types
