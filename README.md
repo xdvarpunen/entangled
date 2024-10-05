@@ -9,7 +9,7 @@ ScottPlot cookbook in `F#`notebooks. Examples created using `.NET SDK`, `VS Code
 ## Progress
 
 - [x] Introduction
-- [ ] Axis
+- [x] Axis
 - [x] Layout
 - [ ] Plot Types
 - [x] Statistics
