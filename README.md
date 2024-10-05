@@ -18,3 +18,5 @@ ScottPlot cookbook in `F#`notebooks. Examples created using `.NET SDK`, `VS Code
 ## Notes
 
 - `sig` is reserved keyword in `F#`
+- adding delegate happens with `<-`
+- `TimeUnits` is made by ScottPlot
