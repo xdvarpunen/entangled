@@ -27,3 +27,6 @@ ScottPlot cookbook in `F#`notebooks. Examples created using `.NET SDK`, `VS Code
 - `TimeUnits` is made by ScottPlot
 - `open` is reserved keyword in `F#`
 - `end` is reserved keyword in `F#`
+
+
+- radial-gauge last example bug?
