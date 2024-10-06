@@ -13,7 +13,12 @@ ScottPlot cookbook in `F#`notebooks. Examples created using `.NET SDK`, `VS Code
 - [x] Layout
 - [ ] Plot Types
 - [x] Statistics
-- [ ] Miscellaneous
+- [x] Miscellaneous
+
+## Improvement ideas
+
+- Organize folders
+- Table of content with links to notebooks
 
 ## Notes
 
