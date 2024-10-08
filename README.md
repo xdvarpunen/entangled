@@ -19,6 +19,7 @@ ScottPlot cookbook in `F#`notebooks. Examples created using `.NET SDK`, `VS Code
 
 - Organize folders
 - Table of content with links to notebooks
+- Include ToC text into file after header
 
 ## Notes
 
