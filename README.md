@@ -11,7 +11,7 @@ ScottPlot cookbook in `F#`notebooks. Examples created using `.NET SDK`, `VS Code
 - [x] Introduction
 - [x] Axis
 - [x] Layout
-- [ ] Plot Types
+- [x] Plot Types
 - [x] Statistics
 - [x] Miscellaneous
 
